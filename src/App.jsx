@@ -239,7 +239,7 @@ export default function Portfolio() {
 
                   <div className="flex gap-4">
                     <a
-                      href="https://github.com/Magaroos"
+                      href="https://github.com/Magaroos/Encrova"
                       className="px-6 py-3 rounded-xl border border-white/20 bg-white/5"
                     >
                       GitHub

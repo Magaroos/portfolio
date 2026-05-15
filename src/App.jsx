@@ -157,7 +157,7 @@ export default function Portfolio() {
             <div className="bg-white/5 border border-white/10 rounded-3xl p-8">
               <h3 className="text-2xl font-bold mb-3">Master of Computer Applications</h3>
               <p className="text-cyan-400">Christ College of Engineering and Technology</p>
-              <p className="text-gray-400 mt-2">CGPA: 8.98 • Pursuing</p>
+              <p className="text-gray-400 mt-2">CGPA: 7.54 • Pursuing</p>
             </div>
 
             <div className="bg-white/5 border border-white/10 rounded-3xl p-8">

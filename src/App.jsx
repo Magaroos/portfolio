@@ -4,12 +4,14 @@ export default function Portfolio() {
     {
       title: "LifeLink",
       desc: "Blood bank management system for managing donors and emergency blood requests efficiently.",
-      tech: ["React.js", "Node.js", "MongoDB"],
+      tech: ["React.js", "Node.js", "Express.js", "MongoDB"],
+      github: "https://github.com/Magaroos/LifeLink",
     },
     {
       title: "Encrova",
       desc: "Secure file-sharing platform with authentication, Cloudinary integration and protected file transfer.",
-      tech: ["React.js", "Express.js", "MongoDB", "JWT", "Cloudinary"],
+      tech: ["React.js", "Node.js", "Express.js", "MongoDB", "JWT", "Cloudinary"],
+      github: "https://github.com/Magaroos/Encrova",
     },
   ];
 

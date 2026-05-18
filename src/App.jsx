@@ -98,7 +98,7 @@ export default function Portfolio() {
             <div className="flex flex-wrap gap-4 mb-10">
               <a
                 href="#projects"
-                className="px-8 py-4 rounded-2xl bg-gradient-to-r from-cyan-500 to-purple-600 font-semibold hover:scale-105 transition"
+                className="px-8 py-4 rounded-2xl bg-gradient-to-r from-cyan-500 to-purple-600 font-semibold hover:bg-cyan-400 hover:text-black transition duration-300 hover:shadow-cyan-500/50 hover:shadow-lg"
               >
                 View My Work
               </a>
@@ -126,7 +126,7 @@ export default function Portfolio() {
               <img
                 src="/profile.jpeg"
                 alt="developer"
-                className="w-full max-w-md rounded-3xl object-cover"
+                className="w-full max-w-xs rounded-3xl object-cover mb-10"
               />
             </div>
           </div>

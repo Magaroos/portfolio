@@ -33,7 +33,7 @@ export default function Portfolio() {
     {
       title: "AI Tools I Use",
       items: ["ChatGPT", "GitHub Copilot", "Claude", "Perplexity","Cursor AI"]
-    }
+    },
     {
       title: "Learning / Exploring",
       items: [

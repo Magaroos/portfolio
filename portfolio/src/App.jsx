@@ -20,20 +20,20 @@ export default function Portfolio() {
     },
     {
       title: "Backend",
-      items: ["Node.js", "Express.js"],
+      items: ["Node.js", "Express.js","Python"],
     },
     {
       title: "Database",
       items: ["MongoDB"],
     },
     {
-      title: "Cloud Service",
-      items: ["Cloudinary"],
+      title: "Tools & Platforms",
+      items: ["Git", "GitHub", "VS Code", "Postman","Vercel","Render"],
     },
     {
-      title: "Tools & Platforms",
-      items: ["Git", "GitHub", "VS Code", "Postman"],
-    },
+      title: "AI Tools I Use",
+      items: ["ChatGPT", "GitHub Copilot", "Claude", "Perplexity","Cursor AI"]
+    }
     {
       title: "Learning / Exploring",
       items: [
@@ -141,15 +141,15 @@ export default function Portfolio() {
             <h2 className="text-5xl font-black mb-8">Who I Am</h2>
 
             <p className="text-gray-400 text-lg leading-9 mb-6">
-              I’m an MCA student passionate about building secure and scalable applications using modern web technologies.
+              I am a Full Stack Web Developer with a Master of Computer Applications (MCA), focused on building modern, responsive and scalable web applications.
             </p>
 
             <p className="text-gray-400 text-lg leading-9 mb-6">
-              I enjoy exploring AI automation, cloud integration and full-stack development while continuously improving my problem-solving skills.
+              I work with technologies like React, Node.js, Express and MongoDB to develop real-world solutions, with a strong focus on clean code and performance.
             </p>
 
             <p className="text-gray-400 text-lg leading-9">
-              Currently building projects like LifeLink and SecureShare to gain real-world development experience.
+              I have successfully built projects like LifeLink and SecureShare, implementing features such as authentication, data management and responsive user interfaces.
             </p>
           </div>
 
@@ -157,7 +157,7 @@ export default function Portfolio() {
             <div className="bg-white/5 border border-white/10 rounded-3xl p-8">
               <h3 className="text-2xl font-bold mb-3">Master of Computer Applications</h3>
               <p className="text-cyan-400">Christ College of Engineering and Technology</p>
-              <p className="text-gray-400 mt-2">CGPA: 8.98 • Pursuing</p>
+              <p className="text-gray-400 mt-2">2024 - 2026</p>
             </div>
 
             <div className="bg-white/5 border border-white/10 rounded-3xl p-8">
@@ -239,14 +239,9 @@ export default function Portfolio() {
 
                   <div className="flex gap-4">
                     <a
-                      href="#"
-                      className="px-6 py-3 rounded-xl bg-gradient-to-r from-cyan-500 to-purple-600 font-semibold"
-                    >
-                      Live Demo
-                    </a>
-
-                    <a
-                      href="#"
+                      href="https://github.com/Magaroos"
+                      target="_blank"
+                      rel="noopener noreferrer"
                       className="px-6 py-3 rounded-xl border border-white/20 bg-white/5"
                     >
                       GitHub

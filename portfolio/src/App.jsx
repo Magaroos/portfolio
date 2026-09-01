@@ -79,8 +79,8 @@ export default function Portfolio() {
             </div>
 
             <h1 className="text-5xl md:text-7xl font-black leading-tight mb-6">
-              Hi, I’m <br />
-              <span className="bg-gradient-to-r from-cyan-400 via-blue-400 to-purple-500 text-transparent bg-clip-text">
+              Hi, I’m{" "}
+              <span className="bg-gradient-to-r from-cyan-400 via-blue-400 to-purple-500 text-transparent bg-clip-text whitespace-nowrap">
                 Mohamed Magaroos
               </span>
             </h1>

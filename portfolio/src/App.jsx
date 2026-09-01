@@ -162,7 +162,7 @@ export default function Portfolio() {
 
             <div className="bg-white/5 border border-white/10 rounded-3xl p-8">
               <h3 className="text-2xl font-bold mb-3">Bachelor of Computer Applications</h3>
-              <p className="text-cyan-400">Pondicherry University Community College</p>
+              <p className="text-cyan-400">Indra Gandhi College of Arst and Science</p>
               <p className="text-gray-400 mt-2">2021 — 2024</p>
             </div>
           </div>
